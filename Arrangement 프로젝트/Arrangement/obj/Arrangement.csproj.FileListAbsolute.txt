@@ -1,0 +1,116 @@
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Debug\Arrangement.exe
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Debug\Arrangement.pdb
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Debug\Arrangement.Form1.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Debug\Arrangement.Properties.Resources.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Debug\Arrangement.csproj.GenerateResource.Cache
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\Arrangement.exe
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\Arrangement.pdb
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Release\ResolveAssemblyReference.cache
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Release\Arrangement.Form1.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Release\Arrangement.Properties.Resources.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Release\Arrangement.csproj.GenerateResource.Cache
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Release\Arrangement.exe
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Release\Arrangement.exe
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Release\Arrangement.pdb
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Release\Arrangement.pdb
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Debug\Arrangement.EnrollForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Debug\Arrangement.QueryForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Release\Arrangement.EnrollForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\obj\Release\Arrangement.QueryForm.resources
+C:\Users\you\Desktop\배우자\Arrangement.exe
+C:\Users\you\Desktop\배우자\Arrangement.pdb
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\System.Data.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\System.Data.SQLite.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\System.Deployment.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\System.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\System.Drawing.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\System.Windows.Forms.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\System.Xml.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement\Arrangement\bin\Debug\System.Data.SQLite.pdb
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\obj\Debug\Arrangement.exe
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\obj\Debug\Arrangement.pdb
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\bin\Debug\Arrangement.exe
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\bin\Debug\Arrangement.pdb
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\bin\Debug\System.Data.dll
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\bin\Debug\System.Deployment.dll
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\bin\Debug\System.dll
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\bin\Debug\System.Drawing.dll
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\bin\Debug\System.Windows.Forms.dll
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\bin\Debug\System.Xml.dll
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\obj\Debug\Arrangement.EnrollForm.resources
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\obj\Debug\Arrangement.Form1.resources
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\obj\Debug\Arrangement.Properties.Resources.resources
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\obj\Debug\Arrangement.QueryForm.resources
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\obj\Debug\Arrangement.csproj.GenerateResource.Cache
+C:\Users\ggbeb\Desktop\Arrangement\Arrangement\bin\Debug\System.Data.SQLite.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.exe
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.pdb
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\bin\Debug\Arrangement.exe
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\bin\Debug\Arrangement.pdb
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\bin\Debug\System.Data.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\bin\Debug\System.Data.SQLite.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\bin\Debug\System.Deployment.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\bin\Debug\System.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\bin\Debug\System.Drawing.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\bin\Debug\System.Windows.Forms.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\bin\Debug\System.Xml.dll
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.EnrollForm.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.Form1.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.Properties.Resources.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.QueryForm.resources
+C:\Users\ggbeb\Desktop\그냥 때려박자\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.csproj.GenerateResource.Cache
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.exe
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.pdb
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\bin\Debug\Arrangement.exe
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\bin\Debug\Arrangement.pdb
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\bin\Debug\System.Data.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\bin\Debug\System.Deployment.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\bin\Debug\System.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\bin\Debug\System.Drawing.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\bin\Debug\System.Windows.Forms.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\bin\Debug\System.Xml.dll
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.EnrollForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.Form1.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.Properties.Resources.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.QueryForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.csproj.GenerateResource.Cache
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Release\ResolveAssemblyReference.cache
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.EnrollForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.Form1.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.Properties.Resources.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.QueryForm.resources
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.csproj.GenerateResource.Cache
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.exe
+C:\Users\you\Desktop\테스트용프로젝트\Arragement 디버깅\Arrangement.exe
+C:\Users\you\Desktop\테스트용프로젝트\Arragement 디버깅\Arrangement.pdb
+C:\Users\you\Desktop\테스트용프로젝트\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.exe
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\bin\Debug\Arrangement.exe
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\bin\Debug\Arrangement.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\bin\Debug\System.Data.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\bin\Debug\System.Deployment.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\bin\Debug\System.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\bin\Debug\System.Drawing.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\bin\Debug\System.Windows.Forms.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\bin\Debug\System.Xml.dll
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Debug\ResolveAssemblyReference.cache
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.EnrollForm.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.Form1.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.Properties.Resources.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.QueryForm.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.csproj.GenerateResource.Cache
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.exe
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Debug\Arrangement.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arragement 디버깅\Arrangement.exe
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arragement 디버깅\Arrangement.pdb
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Release\ResolveAssemblyReference.cache
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.EnrollForm.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.Form1.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.Properties.Resources.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.QueryForm.resources
+\\192.168.0.100\ggbebe8\chops\프로젝트\Arragement\Arrangement 프로젝트\Arrangement\obj\Release\Arrangement.csproj.GenerateResource.Cache
